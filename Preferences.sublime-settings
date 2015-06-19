@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Dreamweaver (SL).tmTheme",
+	"font_face": "Droid Sans Mono",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"soda_classic_tabs": false,
+	"soda_folder_icons": true,
+	"theme": "Flatland Dark.sublime-theme"
+}
